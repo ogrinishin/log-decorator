@@ -1,2 +1,28 @@
-# log-decorator
-Decorators for typescript to make easy logging faster
+# @Log Decorator
+A Node.js module that allow fast logging
+
+## Installation
+```sh
+npm install log-decorator --D
+```
+
+## Usage
+
+### Javascript
+
+```javascript
+var logMethod = require('log-decorator');
+```
+
+### TypeScript
+
+```typescript
+import { logMethod } from 'log-decorator';
+console.log(getPlural('Goose'))
+```
+
+## Test
+
+```sh
+npm run test
+```
