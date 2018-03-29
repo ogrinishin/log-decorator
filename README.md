@@ -1,9 +1,9 @@
-# @Log Decorator
+# @TypeScript Log Decorator
 A Node.js module that allow fast logging
 
 ## Installation
 ```sh
-npm install log-decorator --D
+npm install ts-log-decorator --D
 ```
 
 ## Usage
