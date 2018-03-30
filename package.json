@@ -1,6 +1,6 @@
 {
   "name": "ts-log-decorator",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "description": "Decorators for typescript to make easy logging faster",
   "main": "index.js",
   "scripts": {

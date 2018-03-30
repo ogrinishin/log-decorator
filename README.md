@@ -7,7 +7,6 @@ npm install ts-log-decorator --D
 ```
 
 ## Usage
-
 ### TypeScript
 
 ```typescript
